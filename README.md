@@ -6,8 +6,12 @@
 - **Duration:** Fri, 18 Sept. 2020, 09:00 UTC - Sun, 20 Sept. 2020, 09:00 UTC
 - **Team:** HomemLaDeBaixo
 
-These writeups are beginner oriented, especially since I am still very unexperienced.
+Beginner oriented write-ups from a selection of challenges I enjoyed and found particularly interesting.
 
 ## Web
 
 - [Cookie Clicker](./web/cookie-clicker/) - Medium
+
+## Pwn
+
+- [Shell This!](./pwn/shell-this/) - Beginner
