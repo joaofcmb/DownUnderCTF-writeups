@@ -8,6 +8,10 @@
 
 Beginner oriented write-ups from a selection of challenges I enjoyed and found my resolution process interesting to share.
 
+## Forensics
+
+- [On the Spectrum](./forensics/on-the-spectrum) - Beginner
+
 ## Web
 
 - [Cookie Clicker](./web/cookie-clicker/) - Medium
