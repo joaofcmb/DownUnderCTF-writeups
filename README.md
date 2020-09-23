@@ -14,6 +14,7 @@ Beginner oriented write-ups from a selection of challenges I enjoyed and found m
 
 ## Misc
 
+- [In a pickle](./misc/in-a-pickle) - Easy
 - [Tim Tams](./misc/tim-tams) - Easy
 
 ## Pwn
