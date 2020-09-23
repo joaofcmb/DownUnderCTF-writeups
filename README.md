@@ -6,11 +6,15 @@
 - **Duration:** Fri, 18 Sept. 2020, 09:00 UTC - Sun, 20 Sept. 2020, 09:00 UTC
 - **Team:** HomemLaDeBaixo
 
-Beginner oriented write-ups from a selection of challenges I enjoyed and found particularly interesting.
+Beginner oriented write-ups from a selection of challenges I enjoyed and found my resolution process interesting to share.
 
 ## Web
 
 - [Cookie Clicker](./web/cookie-clicker/) - Medium
+
+## Misc
+
+- [Tim Tams](./misc/tim-tams) - Easy
 
 ## Pwn
 
