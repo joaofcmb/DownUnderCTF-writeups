@@ -24,3 +24,7 @@ Beginner oriented write-ups from a selection of challenges I enjoyed and found m
 ## Pwn
 
 - [Shell This!](./pwn/shell-this/) - Beginner
+
+## Reversing
+
+- [formatting](./reversing/formatting/) - Beginner
